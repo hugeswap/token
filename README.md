@@ -39,9 +39,9 @@ STAKING:30.000.000
 
 
 
-Web: www.hugeswap.com
-Mail: info@hugeswap.com
-Telegram: https://t.me/hugeswap
+- Web: www.hugeswap.com
+- Mail: info@hugeswap.com
+- Telegram: https://t.me/hugeswap
 
 ------------
 
