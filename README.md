@@ -8,8 +8,7 @@
 ------------
 
 
-**Hugeswap Token
-**
+- Hugeswap Token
 - Contract:
 
 - 0x33Cf48dEBdcf255B689A7B1d6be5661EC832CC30
@@ -19,15 +18,15 @@
 ------------
 
 
-**TOTAL TOKEN
-**
+- TOTAL TOKEN
+
 - 75.000.000 HUSWP
 
 ------------
 
 
-**Token distribution
-**
+- Token distribution
+
 
 - DEV TEAM:10.000.000
 - PRESALE: 20.000.000
