@@ -10,18 +10,18 @@
 
 **Hugeswap Token
 **
-**Contract:
-**
-0x33Cf48dEBdcf255B689A7B1d6be5661EC832CC30
-**Decimals:
-**2
+- Contract:
+
+- 0x33Cf48dEBdcf255B689A7B1d6be5661EC832CC30
+- Decimals:
+- 2
 
 ------------
 
 
 **TOTAL TOKEN
 **
-75.000.000 HUSWP
+- 75.000.000 HUSWP
 
 ------------
 
@@ -29,11 +29,11 @@
 **Token distribution
 **
 
-DEV TEAM:10.000.000
-PRESALE: 20.000.000
-Airdrop & Bounty: 6.000.0000 +4.000.000
-MARKETING:5.000.000
-STAKING:30.000.000
+- DEV TEAM:10.000.000
+- PRESALE: 20.000.000
+- Airdrop & Bounty: 6.000.0000 +4.000.000
+- MARKETING:5.000.000
+- STAKING:30.000.000
 
 ------------
 
